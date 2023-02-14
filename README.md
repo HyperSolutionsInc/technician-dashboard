@@ -1,6 +1,6 @@
-# Hyper Customer Dashboard (frontend)
+# Hyper Technician Dashboard (frontend)
 
-Customer Dashboard for Hyper
+Technician Dashboard for Hyper
 
 ## Install the dependencies
 ```bash
